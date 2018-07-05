@@ -23,6 +23,9 @@ var animals = [
 // var dogs = animals.map(prettyOut)
 
 // ES6 syntax
-var prettyOut = animals.map((a) => a.name + ' is a ' + a.species)
+// var prettyOut = animals.map((a) => a.name + ' is a ' + a.species)
+
+// Same as doing this ->
+var prettyOut = animals.map((a) => `${a.name} is a ${a.species}`)
 
 console.log(prettyOut)

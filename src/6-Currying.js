@@ -4,6 +4,8 @@
 //     size + ' dragon that breathes ' +
 //     element + '!'
 
+// console.log(dragon('donut', 'stupid', 'air'))
+
 // Exciting Curry function
 let dragon =
     name =>
