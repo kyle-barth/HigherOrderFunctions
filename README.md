@@ -2,7 +2,8 @@
 
 ## How To Run:
 - npm i
-- node [name of JavaScript file you want to run!] (Example: ```node 1-Filter.js```)
+- cd ./src (Make sure you are in the src directory)
+- node [name of JavaScript file you want to run!] (Example: ```node 1-Filter.js```) -> (If this doesnt work try ```npx babel-node 1-Filter.js```)
 
 Higher Order Functions
 - Filter
@@ -10,6 +11,8 @@ Higher Order Functions
 - Reduce
 - Closures
 - Currying
+- Recursion
+- Promises
 
 JavaScript Theory
 - Callback functions
