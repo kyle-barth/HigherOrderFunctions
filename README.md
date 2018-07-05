@@ -1,9 +1,15 @@
 # Higher Order Functions
 
+## How To Run:
+- npm i
+- node [name of JavaScript file you want to run!] (Example: ```node 1-Filter.js```)
+
 Higher Order Functions
 - Filter
 - Map
 - Reduce
+- Closures
+- Currying
 
 JavaScript Theory
 - Callback functions
