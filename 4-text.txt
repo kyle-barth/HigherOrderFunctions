@@ -1,0 +1,6 @@
+mark ronson waffle iron 80 2
+mark ronson blender 250 4
+mark ronson knife 15 1
+james cameron waffle iron 80  3
+james cameron pot 230  2
+james cameron knife 50  5
