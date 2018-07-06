@@ -15,7 +15,7 @@ Higher Order Functions
 - Promises
 
 JavaScript Theory
-- Callback functions
+- Async Requests
 - ES6 Syntax
 
 Online series: https://www.youtube.com/watch?v=BMUiFMZr7vk
