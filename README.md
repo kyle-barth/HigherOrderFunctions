@@ -9,13 +9,14 @@ Higher Order Functions
 - Filter
 - Map
 - Reduce
+
+JavaScript Theory
 - Closures
 - Currying
 - Recursion
 - Promises
-
-JavaScript Theory
 - Async Requests
+- Callbacks
 - ES6 Syntax
 
 Online series: https://www.youtube.com/watch?v=BMUiFMZr7vk
